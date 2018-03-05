@@ -60,6 +60,9 @@
     <Compile Include="urlEncode.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="waterContainer.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="zeroMatrix.py">
       <SubType>Code</SubType>
     </Compile>

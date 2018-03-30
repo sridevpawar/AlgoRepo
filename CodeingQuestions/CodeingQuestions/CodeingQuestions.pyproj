@@ -57,6 +57,9 @@
     <Compile Include="rotateMatrixInPlace.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="spirallyTraversingMatrix.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="urlEncode.py">
       <SubType>Code</SubType>
     </Compile>

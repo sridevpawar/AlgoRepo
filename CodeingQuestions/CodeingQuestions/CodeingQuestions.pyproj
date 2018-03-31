@@ -48,6 +48,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="plateStacks.py" />
+    <Compile Include="relativeSorting.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="repeatCharWithIndex.py">
       <SubType>Code</SubType>
     </Compile>

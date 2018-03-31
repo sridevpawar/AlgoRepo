@@ -34,6 +34,9 @@
     <Compile Include="kthElement.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="KthLargestInStream.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="makeGraph.py">
       <SubType>Code</SubType>
     </Compile>

@@ -47,6 +47,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="myStack.py" />
+    <Compile Include="parenthesisChecker.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="permutationChecker.py">
       <SubType>Code</SubType>
     </Compile>

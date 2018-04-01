@@ -54,6 +54,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="plateStacks.py" />
+    <Compile Include="printStringPermutations.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="relativeSorting.py">
       <SubType>Code</SubType>
     </Compile>

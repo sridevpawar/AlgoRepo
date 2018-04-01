@@ -60,6 +60,9 @@
     <Compile Include="repeatCharWithIndex.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="reverseWords.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="rotateMatrix.py">
       <SubType>Code</SubType>
     </Compile>

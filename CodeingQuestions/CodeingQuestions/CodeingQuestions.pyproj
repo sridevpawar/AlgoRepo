@@ -24,6 +24,9 @@
     <Compile Include="addNumbersLL.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="checkBST.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CodeingQuestions.py" />
     <Compile Include="findDupeWithIndex.py">
       <SubType>Code</SubType>
@@ -34,6 +37,7 @@
     <Compile Include="formAPalindrome.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="formLargeNumber.py" />
     <Compile Include="kthElement.py">
       <SubType>Code</SubType>
     </Compile>
@@ -49,6 +53,7 @@
     <Compile Include="longestSubStringWithUniqueChar.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="makeBST.py" />
     <Compile Include="makeGraph.py">
       <SubType>Code</SubType>
     </Compile>
@@ -59,6 +64,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="myStack.py" />
+    <Compile Include="myTree.py" />
     <Compile Include="parenthesisChecker.py">
       <SubType>Code</SubType>
     </Compile>

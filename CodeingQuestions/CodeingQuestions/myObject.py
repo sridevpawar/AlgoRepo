@@ -30,7 +30,8 @@ class node:
 
 class treeNode:
 
-    def __init__(self, data):
+    def __init__(self, data, parent):
         self.data = data
+        self.parent = parent
         self.left = None
         self.right = None

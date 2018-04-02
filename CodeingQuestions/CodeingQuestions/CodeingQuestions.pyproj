@@ -46,6 +46,9 @@
     <Compile Include="longestPalindrome.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="longestSubStringWithUniqueChar.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="makeGraph.py">
       <SubType>Code</SubType>
     </Compile>

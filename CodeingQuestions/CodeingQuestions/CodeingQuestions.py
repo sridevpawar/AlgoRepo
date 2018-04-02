@@ -1,1 +1,1 @@
-import longestPalindrome
+import formAPalindrome

@@ -10,5 +10,10 @@ def longestPalindrome(str):
 
 
 
-str1 = "aaaabbaa"
-print(longestPalindrome(str1))
+a=int(input())
+while a > 0:
+    str = input()
+    temp = longestPalindrome(str)
+    if temp == None: temp = str[0]
+    print(temp)
+    a -= 1

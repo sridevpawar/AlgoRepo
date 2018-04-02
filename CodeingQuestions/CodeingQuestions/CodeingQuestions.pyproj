@@ -31,10 +31,16 @@
     <Compile Include="findLLDupe.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="formAPalindrome.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="kthElement.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="KthLargestInStream.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="loggestCommonSubString.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="longestPalindrome.py">
@@ -61,6 +67,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="relativeSorting.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="removeAdjacentDuplicates.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="repeatCharWithIndex.py">

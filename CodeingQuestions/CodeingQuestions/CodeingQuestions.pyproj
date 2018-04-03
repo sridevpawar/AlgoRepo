@@ -60,6 +60,9 @@
     <Compile Include="makeGraph.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="medianInStream.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="myLinkedList.py">
       <SubType>Code</SubType>
     </Compile>

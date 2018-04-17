@@ -30,7 +30,13 @@
     <Compile Include="checkBST.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="chnageAdjacentPixel.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CodeingQuestions.py" />
+    <Compile Include="combinationSum.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="findDupeWithIndex.py">
       <SubType>Code</SubType>
     </Compile>
@@ -41,6 +47,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="formLargeNumber.py" />
+    <Compile Include="glassOverFlow.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="kthElement.py">
       <SubType>Code</SubType>
     </Compile>
@@ -58,6 +67,9 @@
     </Compile>
     <Compile Include="makeBST.py" />
     <Compile Include="makeGraph.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="maxA.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="medianInStream.py">

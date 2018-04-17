@@ -1,1 +1,1 @@
-import medianInStream
+import divisiblePairFromArray

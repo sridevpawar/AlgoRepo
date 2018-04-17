@@ -1,1 +1,1 @@
-import noRepeatedChar
+import divisiblePairFromArray

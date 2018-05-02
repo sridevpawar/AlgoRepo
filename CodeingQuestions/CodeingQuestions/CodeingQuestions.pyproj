@@ -24,6 +24,9 @@
     <Compile Include="addNumbersLL.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="arraySubset.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="binaryTreeToDLL.py">
       <SubType>Code</SubType>
     </Compile>
@@ -35,6 +38,9 @@
     </Compile>
     <Compile Include="CodeingQuestions.py" />
     <Compile Include="combinationSum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="divisiblePairFromArray.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="findDupeWithIndex.py">

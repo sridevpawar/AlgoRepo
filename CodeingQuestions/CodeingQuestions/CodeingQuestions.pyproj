@@ -53,6 +53,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="formLargeNumber.py" />
+    <Compile Include="heapSortMaxEg.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="heapSortMin.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="glassOverFlow.py">
       <SubType>Code</SubType>
     </Compile>
@@ -89,6 +95,9 @@
     </Compile>
     <Compile Include="myStack.py" />
     <Compile Include="myTree.py" />
+    <Compile Include="noRepeatedChar.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="parenthesisChecker.py">
       <SubType>Code</SubType>
     </Compile>

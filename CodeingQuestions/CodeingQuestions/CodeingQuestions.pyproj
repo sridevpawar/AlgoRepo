@@ -30,6 +30,9 @@
     <Compile Include="alienLanguageAnalize.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="arraySubset.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="binaryTreeToDLL.py">
       <SubType>Code</SubType>
     </Compile>
@@ -43,7 +46,9 @@
     <Compile Include="combinationSum.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="divisiblePairFromArray.py" />
+    <Compile Include="divisiblePairFromArray.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="findDupeWithIndex.py">
       <SubType>Code</SubType>
     </Compile>

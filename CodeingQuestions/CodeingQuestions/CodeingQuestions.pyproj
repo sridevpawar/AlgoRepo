@@ -24,12 +24,6 @@
     <Compile Include="addNumbersLL.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="airBnbSearchResults.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="alienLanguageAnalize.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="binaryTreeToDLL.py">
       <SubType>Code</SubType>
     </Compile>
@@ -43,23 +37,16 @@
     <Compile Include="combinationSum.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="divisiblePairFromArray.py" />
     <Compile Include="findDupeWithIndex.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="findLLDupe.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="fixBSTWithOneSwap.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="formAPalindrome.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="formLargeNumber.py" />
-    <Compile Include="giveBooks.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="heapSortMaxEg.py">
       <SubType>Code</SubType>
     </Compile>
@@ -69,9 +56,6 @@
     <Compile Include="glassOverFlow.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="IsTreeSymmetric.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="kthElement.py">
       <SubType>Code</SubType>
     </Compile>
@@ -79,9 +63,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="loggestCommonSubString.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="longestConsecutiveSubsequence.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="longestPalindrome.py">
@@ -108,9 +89,6 @@
     </Compile>
     <Compile Include="myStack.py" />
     <Compile Include="myTree.py" />
-    <Compile Include="nodesAtKDistanceInBTree.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="noRepeatedChar.py">
       <SubType>Code</SubType>
     </Compile>

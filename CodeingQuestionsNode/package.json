@@ -1,0 +1,20 @@
+{
+  "name": "codeingquestionsnode",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "maxStockProfit": "./node_modules/ts-node/dist/bin.js ./MaxStockProfit/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.4"
+  },
+  "description": ""
+}

@@ -1,3 +1,1 @@
-let fun = null;
-fun = () => { console.log('funTS')};
-fun();
+var x = require('./MaxStockProfit/index');

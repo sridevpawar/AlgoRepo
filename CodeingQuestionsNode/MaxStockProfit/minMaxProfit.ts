@@ -8,7 +8,9 @@ export let getMaxProfit = (prices: Array<number>) => {
     var min = prices[0];
     var max = 0;
     let result: TransactionItem = {
-        profit: 0
+        profit: 0,
+        buyPrise: 0,
+        sellPrise: 0
     };
     prices.forEach(price => {
         if (price < min){

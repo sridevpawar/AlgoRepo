@@ -1,1 +1,1 @@
-var x = require('./MaxStockProfit/index');
+var x = require('./TotalMaxStockProfit/index');

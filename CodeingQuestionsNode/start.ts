@@ -1,1 +1,1 @@
-var x = require('./TotalMaxStockProfit/index');
+var x = require('./WordBoggle/index');
